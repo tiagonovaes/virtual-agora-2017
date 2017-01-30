@@ -1,0 +1,12 @@
+RELATÓRIO DA ETAPA DE PRÉ-PROCESSAMENTO 
+
+Os dados de entrada contém 227 parágrafos.
+Os dados de entrada possuem 2954 tokens.
+Os dados lematizados possuem 3166 tokens.
+Palavras não lematizadas: $ $ $ check-in $ wi-fi $ wi-fi recem-inaugurado check-in meio-dia meio-dia $ pão-de um-forma 
+O documento lematizado e sem stopwords possui 1721 tokens.
+
+CONCLUSãO:
+Compressão do texto após pré-processamento: 41.740013541 %.
+Em média, cada sentença do texto original possui 12 palavras.
+Em média, cada sentença do texto lematizado sem stop-words possui 7 palavras.
